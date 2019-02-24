@@ -4,3 +4,6 @@
 
 Maven project to test DevOps best practices
 
+
+Spring: https://github.com/psl-devops/poc-cd
+Terraform: https://github.com/facevedom/aws-terraform-workshop
